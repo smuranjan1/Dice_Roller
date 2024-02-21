@@ -2,4 +2,6 @@
     <string name="app_name">Dice Roller</string>
     <string name="roll">Roll</string>
     <string name="dice_image_description">Picture of dice number that has been rolled.</string>
+    <string name="lets_roll">Lets Roll</string>
+    <string name="roll_again">Roll Again</string>
 </resources>
